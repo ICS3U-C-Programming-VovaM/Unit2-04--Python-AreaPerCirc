@@ -15,7 +15,7 @@ def main():
         return
 
     # Calculations using math.pi
-    area = math.pi * (radius**2)
+    area = math.pi * (radius ** 2)
     circumference = 2 * math.pi * radius
 
     # Display results
