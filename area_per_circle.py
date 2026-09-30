@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 # Created By: Vova M
 # Date: Sep 21, 2026
